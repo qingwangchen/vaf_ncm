@@ -1,0 +1,6 @@
+{
+  "{{ project_name }}.vaf": {{ vaf | tojson }},
+  "{{ project_name }}.docker": "{{ docker }}",
+  "{{ project_name }}.disk_size": "{{ disk_size }}",
+  "{{ project_name }}.cluster_config": "{{ cluster_config }}"
+}
