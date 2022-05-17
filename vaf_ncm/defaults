@@ -1,0 +1,5 @@
+{
+  "cluster_config": "OnDemand bcs.a2.3xlarge img-ubuntu-vpc",
+  "disk_size": "100",
+  "docker": "registry.cn-shanghai.aliyuncs.com/pgx-docker-registry/ngscheckmate:v1.0.0"
+}
